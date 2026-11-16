@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 08_avl_tree.c
+ * FILE  : 11_avl_tree.c
  * TOPIC : AVL TREE (self-balancing Binary Search Tree)
  *==========================================================================
  *
@@ -54,7 +54,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 08_avl_tree.c -o avl && ./avl
+ *  gcc 11_avl_tree.c -o avl && ./avl
  *
  * SAMPLE OUTPUT
  * -------------

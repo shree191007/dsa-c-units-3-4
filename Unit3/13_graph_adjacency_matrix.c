@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 10_graph_adjacency_matrix.c
+ * FILE  : 13_graph_adjacency_matrix.c
  * TOPIC : GRAPH - properties and representation using an ADJACENCY MATRIX
  *==========================================================================
  *
@@ -58,11 +58,11 @@
  * ------------------------
  *  Space : O(V^2) always, even if there are very few edges.
  *  Best for DENSE graphs and when you need fast "is there an edge u-v?" tests.
- *  Wasteful for SPARSE graphs (use the adjacency list - file 11).
+ *  Wasteful for SPARSE graphs (use the adjacency list - file 14).
  *
  * COMPILE & RUN
  * -------------
- *  gcc 10_graph_adjacency_matrix.c -o graph_matrix && ./graph_matrix
+ *  gcc 13_graph_adjacency_matrix.c -o graph_matrix && ./graph_matrix
  *  (vertices are numbered 0, 1, 2, ... V-1)
  *
  * SAMPLE OUTPUT

@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 09_splay_tree.c
+ * FILE  : 12_splay_tree.c
  * TOPIC : SPLAY TREE (self-adjusting Binary Search Tree)
  *==========================================================================
  *
@@ -51,7 +51,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 09_splay_tree.c -o splay && ./splay
+ *  gcc 12_splay_tree.c -o splay && ./splay
  *
  * EXAMPLE: insert 40,20,60; search 20 moves 20 to root.
  */

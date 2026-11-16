@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 15_hash_functions.c
+ * FILE  : 07_hash_functions.c
  * TOPIC : HASH FUNCTIONS - DIVISION MULTIPLICATION MID-SQUARE FOLDING AND STRINGS
  *==========================================================================
  *
@@ -24,7 +24,7 @@
  *
  * COMPILE AND RUN
  * ---------------
- * gcc -std=c99 15_hash_functions.c -o study.exe
+ * gcc -std=c99 07_hash_functions.c -o study.exe
  * On Windows: .\study.exe
  * Compile this file by itself. Each numbered file has its own main
  * function.

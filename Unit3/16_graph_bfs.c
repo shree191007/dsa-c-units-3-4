@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 13_graph_bfs.c
+ * FILE  : 16_graph_bfs.c
  * TOPIC : GRAPH TRAVERSAL - BREADTH FIRST SEARCH (BFS)
  *==========================================================================
  *
@@ -52,7 +52,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 13_graph_bfs.c -o bfs && ./bfs      (vertices are numbered 0 .. V-1)
+ *  gcc 16_graph_bfs.c -o bfs && ./bfs      (vertices are numbered 0 .. V-1)
  *
  * SAMPLE OUTPUT
  * -------------

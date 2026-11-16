@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 01_bst_dynamic.c
+ * FILE  : 08_bst_dynamic_menu.c
  * TOPIC : Binary Search Tree (BST) using DYNAMIC ALLOCATION (linked nodes)
  *==========================================================================
  *
@@ -49,7 +49,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 01_bst_dynamic.c -o bst_dynamic
+ *  gcc 08_bst_dynamic_menu.c -o bst_dynamic
  *  ./bst_dynamic          (on Windows/MSYS2:  bst_dynamic.exe)
  *
  * SAMPLE OUTPUT

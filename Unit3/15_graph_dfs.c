@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 12_graph_dfs.c
+ * FILE  : 15_graph_dfs.c
  * TOPIC : GRAPH TRAVERSAL - DEPTH FIRST SEARCH (DFS)
  *==========================================================================
  *
@@ -55,7 +55,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 12_graph_dfs.c -o dfs && ./dfs      (vertices are numbered 0 .. V-1)
+ *  gcc 15_graph_dfs.c -o dfs && ./dfs      (vertices are numbered 0 .. V-1)
  *
  * SAMPLE OUTPUT
  * -------------

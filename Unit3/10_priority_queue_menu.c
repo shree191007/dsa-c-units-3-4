@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 07_priority_queue_heap.c
+ * FILE  : 10_priority_queue_menu.c
  * TOPIC : PRIORITY QUEUE implemented with a binary HEAP
  *         (min-priority queue and max-priority queue)
  *==========================================================================
@@ -49,7 +49,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 07_priority_queue_heap.c -o pq && ./pq
+ *  gcc 10_priority_queue_menu.c -o pq && ./pq
  *
  * SAMPLE OUTPUT
  * -------------

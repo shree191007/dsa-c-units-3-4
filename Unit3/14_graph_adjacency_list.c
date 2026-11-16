@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 11_graph_adjacency_list.c
+ * FILE  : 14_graph_adjacency_list.c
  * TOPIC : GRAPH - properties and representation using an ADJACENCY LIST
  *==========================================================================
  *
@@ -7,7 +7,7 @@
  * ------
  * (Definitions of vertex, edge, degree, directed / undirected, weighted,
  *  handshaking lemma, simple / complete / regular graph etc. are explained
- *  in the header of file 10_graph_adjacency_matrix.c - same meaning here.)
+ *  in the header of file 13_graph_adjacency_matrix.c - same meaning here.)
  *
  * ADJACENCY LIST REPRESENTATION
  * -----------------------------
@@ -47,7 +47,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 11_graph_adjacency_list.c -o graph_list && ./graph_list
+ *  gcc 14_graph_adjacency_list.c -o graph_list && ./graph_list
  *  (vertices are numbered 0 .. V-1)
  *
  * SAMPLE OUTPUT

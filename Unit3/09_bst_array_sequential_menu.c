@@ -1,5 +1,5 @@
 /*==========================================================================
- * FILE  : 02_bst_array_sequential.c
+ * FILE  : 09_bst_array_sequential_menu.c
  * TOPIC : Binary Search Tree using an ARRAY (sequential / index formula)
  *==========================================================================
  *
@@ -55,7 +55,7 @@
  *
  * COMPILE & RUN
  * -------------
- *  gcc 02_bst_array_sequential.c -o bst_array && ./bst_array
+ *  gcc 09_bst_array_sequential_menu.c -o bst_array && ./bst_array
  *
  * SAMPLE OUTPUT
  * -------------
