@@ -24,6 +24,7 @@ Files are numbered per unit. **Demo** programs run a fixed example and print the
 | 14 | [Unit3/14_graph_adjacency_list.c](Unit3/14_graph_adjacency_list.c) | Menu | Graph properties and adjacency list |
 | 15 | [Unit3/15_graph_dfs.c](Unit3/15_graph_dfs.c) | Menu | DFS with discovery/finish times and edge classification |
 | 16 | [Unit3/16_graph_bfs.c](Unit3/16_graph_bfs.c) | Menu | BFS with levels and distances |
+| 17 | [Unit3/17_bst_array_indexed.c](Unit3/17_bst_array_indexed.c) | Demo | BST in an array of records with integer child indices: node/leaf counts, copy, equality |
 
 ## Unit 4: Graph applications, suffix tree and hashing
 
@@ -36,7 +37,3 @@ Files are numbered per unit. **Demo** programs run a fixed example and print the
 | 05 | [Unit4/05_trie.c](Unit4/05_trie.c) | Demo | Trie: insert, search, delete, prefix, autocomplete |
 | 06 | [Unit4/06_suffix_tree.c](Unit4/06_suffix_tree.c) | Demo | Compressed suffix tree and suffix trie, pattern search |
 | 07 | [Unit4/07_hash_functions.c](Unit4/07_hash_functions.c) | Menu | Division, multiplication, mid-square and folding hash functions |
-
-## Not included
-
-`03_bst_array_indexed.c` (BST with index-linked array records) is left out because the source file does not compile as supplied.
